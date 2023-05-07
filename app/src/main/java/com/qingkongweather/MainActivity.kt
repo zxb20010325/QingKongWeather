@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+
 //cd D:\AndroidProjects\UI\QingKongWeather>
